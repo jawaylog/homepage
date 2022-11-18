@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>giscus on Congo</title>
+    <link>/tags/giscus/</link>
+    <description>Recent content in giscus on Congo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2022 Congo contributors</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 22:41:02 +0800</lastBuildDate><atom:link href="/tags/giscus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giscus评论系统简单配置</title>
+      <link>/posts/giscus/</link>
+      <pubDate>Wed, 12 Oct 2022 22:41:02 +0800</pubDate>
+      
+      <guid>/posts/giscus/</guid>
+      <description>&lt;p&gt;很早之前就想给博客弄个评论系统，又互动才更加有乐趣。看了其他的一些评论系统，就选择了Giscus评论系统，由于小白一个，弄了很久才搞明白怎么回事。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
